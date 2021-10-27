@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gaurav-react-portfolio/static/css/main.655709cc.chunk.css",
+    "main.js": "/gaurav-react-portfolio/static/js/main.2c7c2ec9.chunk.js",
+    "main.js.map": "/gaurav-react-portfolio/static/js/main.2c7c2ec9.chunk.js.map",
+    "runtime-main.js": "/gaurav-react-portfolio/static/js/runtime-main.1846588d.js",
+    "runtime-main.js.map": "/gaurav-react-portfolio/static/js/runtime-main.1846588d.js.map",
+    "static/js/2.6dae1abd.chunk.js": "/gaurav-react-portfolio/static/js/2.6dae1abd.chunk.js",
+    "static/js/2.6dae1abd.chunk.js.map": "/gaurav-react-portfolio/static/js/2.6dae1abd.chunk.js.map",
+    "index.html": "/gaurav-react-portfolio/index.html",
+    "static/css/main.655709cc.chunk.css.map": "/gaurav-react-portfolio/static/css/main.655709cc.chunk.css.map",
+    "static/js/2.6dae1abd.chunk.js.LICENSE.txt": "/gaurav-react-portfolio/static/js/2.6dae1abd.chunk.js.LICENSE.txt",
+    "static/media/amazon.e21d9217.png": "/gaurav-react-portfolio/static/media/amazon.e21d9217.png",
+    "static/media/pic.f02d408b.png": "/gaurav-react-portfolio/static/media/pic.f02d408b.png",
+    "static/media/portfolio.cc6809d3.png": "/gaurav-react-portfolio/static/media/portfolio.cc6809d3.png",
+    "static/media/scroll-down.f379348c.svg": "/gaurav-react-portfolio/static/media/scroll-down.f379348c.svg",
+    "static/media/youtube.539a0f42.png": "/gaurav-react-portfolio/static/media/youtube.539a0f42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1846588d.js",
+    "static/js/2.6dae1abd.chunk.js",
+    "static/css/main.655709cc.chunk.css",
+    "static/js/main.2c7c2ec9.chunk.js"
+  ]
+}
